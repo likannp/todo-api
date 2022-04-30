@@ -236,7 +236,11 @@ DEPENDENCIES
   jbuilder
   puma (~> 5.0)
   rails (~> 7.0.2, >= 7.0.2.4)
+<<<<<<< HEAD
   rspec-rails
+=======
+  rspec-rails (~> 5.1, >= 5.1.2)
+>>>>>>> 6c50b49d3089e1e0aa8d392e761d52399ef26916
   selenium-webdriver
   sprockets-rails
   sqlite3 (~> 1.4)

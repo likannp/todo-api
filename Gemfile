@@ -49,7 +49,11 @@ gem "bootsnap", require: false
 # gem "image_processing", "~> 1.2"
 
 group :development, :test do
+<<<<<<< HEAD
   gem 'rspec-rails'
+=======
+  gem 'rspec-rails', '~> 5.1', '>= 5.1.2'
+>>>>>>> 6c50b49d3089e1e0aa8d392e761d52399ef26916
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
   gem "debug", platforms: %i[ mri mingw x64_mingw ]
 end
