@@ -1,6 +1,2 @@
-<<<<<<< HEAD
---require spec_helper
-=======
 --require rails_helper
->>>>>>> 6c50b49d3089e1e0aa8d392e761d52399ef26916
 --format documentation
